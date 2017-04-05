@@ -1,0 +1,29 @@
+.table {
+width: 100%;
+border: 4px double black;
+border-collapse: collapse;
+height: 170px;
+position: absolute;
+top: 90%;
+left: 6%;
+margin: -115px 0 0 -115px;
+overflow: auto;
+}
+.th {
+ color: #555555;
+ text-align: center;
+ background: #cccccc;
+ padding: 5px;
+ border: 1px solid black;
+}
+.td {
+ padding: 5px;
+ border: 1px solid black;
+}
+.STroubleDoughnut {
+    padding-left: 9vw;
+    padding-top: 4vh;
+}
+.LineDamages{
+    padding-left: 16vw;
+}
